@@ -1,5 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+Web app wich helps you find movie, in developing are used functional components with [React Hooks](https://reactjs.org/docs/hooks-overview.html#state-hook) (React v.16.9.0) and [OMDb](http://www.omdbapi.com/) API.
 ## Available Scripts
 
 In the project directory, you can run:
